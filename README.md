@@ -1,3 +1,5 @@
+                                 Amazon Sales Dashboard
+
 To build an interactive dashboard that tracks laptop sales by brand, region, and month, enabling business teams to monitor performance and make data-driven decisions.
 Tools Used:
 Microsoft Excel: Pivot Tables, Slicers, Conditional Formatting, Formulas (VLOOKUP, IF, SUMIFS), Charts
